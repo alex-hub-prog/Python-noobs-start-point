@@ -1,0 +1,1 @@
+In this content, the aim is to test the ability of beginners to Python programming to focus on the algorithmic aspect of programming rather than on the code itself. These exercises are highly instructive, and their resolution requires a well-defined methodology and a critical mind. 
